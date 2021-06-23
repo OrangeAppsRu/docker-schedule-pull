@@ -18,3 +18,4 @@ jobs:
         bundle config set path 'vendor/bundle'
         bundle install
         bundle exec docker_pull.rb
+        
